@@ -1,7 +1,7 @@
 This snapshot was automatically generated on
-Thu, 13 Sep 2018 01:24:21 +0000
+Tue, 05 Feb 2019 23:23:31 +0000
 
-Version: 7.2.10
+Version: 7.2.15
 Branch: HEAD
 Build: C:\php-snap-build\php72\vc15\x64\obj\Release
 
@@ -47,16 +47,16 @@ mysqli
 Dependency information:
 Module: php_curl.dll
 ===========================
-	libssh2.dll
-	nghttp2.dll
 	libcrypto-1_1-x64.dll
 	libssl-1_1-x64.dll
+	libssh2.dll
+	nghttp2.dll
 
-Module: libssh2.dll
+Module: libssl-1_1-x64.dll
 ===========================
 	libcrypto-1_1-x64.dll
 
-Module: libssl-1_1-x64.dll
+Module: libssh2.dll
 ===========================
 	libcrypto-1_1-x64.dll
 
@@ -80,22 +80,22 @@ Module: php_ftp.dll
 
 Module: php_intl.dll
 ===========================
-	icuuc62.dll
-	icuin62.dll
-	icuio62.dll
+	icuuc63.dll
+	icuin63.dll
+	icuio63.dll
 
-Module: icuuc62.dll
+Module: icuuc63.dll
 ===========================
-	icudt62.dll
+	icudt63.dll
 
-Module: icuin62.dll
+Module: icuin63.dll
 ===========================
-	icuuc62.dll
+	icuuc63.dll
 
-Module: icuio62.dll
+Module: icuio63.dll
 ===========================
-	icuuc62.dll
-	icuin62.dll
+	icuuc63.dll
+	icuin63.dll
 
 Module: php_ldap.dll
 ===========================
