@@ -1,7 +1,7 @@
 This snapshot was automatically generated on
-Tue, 05 Feb 2019 23:23:31 +0000
+Wed, 06 Mar 2019 22:23:06 +0000
 
-Version: 7.2.15
+Version: 7.2.16
 Branch: HEAD
 Build: C:\php-snap-build\php72\vc15\x64\obj\Release
 
@@ -16,7 +16,6 @@ filter
 hash
 iconv
 json
-mcrypt
 SPL
 pcre
 readline
