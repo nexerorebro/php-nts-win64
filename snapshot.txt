@@ -1,7 +1,7 @@
 This snapshot was automatically generated on
-Tue, 02 Jul 2019 13:33:30 +0000
+Wed, 28 Aug 2019 10:05:14 +0000
 
-Version: 7.2.20
+Version: 7.2.22
 Branch: HEAD
 Build: C:\php-snap-build\php72\vc15\x64\obj\Release
 
